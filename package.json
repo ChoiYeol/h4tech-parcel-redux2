@@ -1,0 +1,14 @@
+{
+  "name": "parcel-redux",
+  "version": "1.0.0",
+  "description": "for parcel and redux test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeol",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
